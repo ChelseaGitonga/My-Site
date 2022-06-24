@@ -1,0 +1,142 @@
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: black;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: grey;
+}
+
+.top-container {
+  background-color: #F7F7F7;
+  height: 800px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #F7F7F7;
+}
+
+.bottom-container {
+  background-color: #FFFFFF;
+}
+
+.top-woman {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  right: 20%;
+  top: 10%;
+}
+
+.bottom-woman {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  bottom: 10%;
+  left: 20%;
+}
+
+.myname {
+  font-size: 5.625rem;
+  position: absolute;
+  left: 35%;
+  top: 35%;
+}
+
+.mytitle {
+  font-size: 1.875rem;
+  position: absolute;
+  left: 40%;
+  top: 48%;
+}
+
+.profile {
+  position: relative;
+  height: 800px;
+  background-color: #FFFFFF;
+}
+
+.profile-woman {
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
+
+.hello {
+  position: absolute;
+  left: 45%;
+  top: 45%;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+}
+
+.bio {
+  width: 30%;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  font-family: 'Amita', cursive;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.web-development {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.robotics {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.python {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.line{
+  visibility: hidden;
+}
+
+.contact-me{
+  background-color: #FFFFFF;
+}
+
+.copyright{
+  font-size: 0.75rem;
+}
