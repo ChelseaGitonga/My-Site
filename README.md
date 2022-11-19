@@ -15,4 +15,5 @@
 - background-color
 - border-style, border-color, border-width, border-radius
 ### Languages and technologies:
-HTML5, CSS3
+- HTML5 
+- CSS3
