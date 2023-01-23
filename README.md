@@ -17,3 +17,5 @@
 ### Languages and technologies:
 - HTML5 
 - CSS3
+### Purpose:
+This project serves as a demonstration of my proficiency in CSS3. It showcases my understanding of various CSS properties and how they can be used to create a visually appealing and functional website. The website is designed to be a personal portfolio, displaying information about myself and my work. It also serves as a platform for me to experiment with new web development techniques and tools.
